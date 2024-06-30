@@ -6,4 +6,5 @@
 - Make sure game NOT in full screeen or crash
 
 - Supports vurrent version + DLC
- 
+
+- Any errors please contact me on discord - killuano
