@@ -1,4 +1,5 @@
-# Elden Menu
+# Elden Ring Cheat
+
 - An Elden Ring in game trainer with common features made with imgui
 
 - Use extreme injector to inject
